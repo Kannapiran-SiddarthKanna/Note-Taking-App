@@ -29,5 +29,5 @@ This project presents the design of a Note-Taking Application using Balsamiq wir
 
 **Getting Started**
 -  Access the wireframes through Balsamiq Cloud or download the project files.
--  [📥 Download Balsamiq Wireframes](https://github.com)
+[📥 Download Balsamiq Wireframes](NoteTakingApp.bmpr)
 -  Review the flow and structure of the app's user interface.
